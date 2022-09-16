@@ -1,1 +1,1 @@
-# 0902.1
+# lecture1.ipynb
